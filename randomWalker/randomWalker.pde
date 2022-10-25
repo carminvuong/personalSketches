@@ -1,5 +1,6 @@
 Walker w;
 
+
 void setup() {
   frameRate(240);
   size(500, 500);
